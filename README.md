@@ -10,6 +10,9 @@
 
 2. O(n^2)
 
+3.
+
+
 4. Average case
 
 [7,3,5,8,2,9,4,15,6] Dizisinin Insertion Sort'a göre ilk 4 adımı
